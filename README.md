@@ -1,2 +1,2 @@
-# customer_churn_prediction
-Machine Learning model for proactive customer churn prediction and retention strategy development.
+# Customer Churn Prediction
+Machine Learning model for proactive customer churn prediction and retention strategy development built using Tensorflow!
