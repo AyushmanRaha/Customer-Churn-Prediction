@@ -14,6 +14,6 @@ The project is work in progress and currently under development.
 
 4. Evaluate and compare model performance, highlight data issues, and provide churn insights.
 
-5.Extend predictions into actionable retention strategies for high-risk customers.
+5. Extend predictions into actionable retention strategies for high-risk customers.
 
 ## 🚧🛠️ This README will evolve as the project matures.
