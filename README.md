@@ -16,4 +16,4 @@ The project is work in progress and currently under development.
 
 5.Extend predictions into actionable retention strategies for high-risk customers.
 
-## 👉 This README will evolve as the project matures.
+## 🚧🛠️ This README will evolve as the project matures.
