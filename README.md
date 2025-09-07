@@ -6,7 +6,7 @@ This project focuses on predicting customer churn for a telco dataset and explor
 The project is work in progress and currently under development.
 
 ## 🎯 Objectives:
-1. Build a machine learning pipeline that dynamically ingests telco CSV data.
+1. Build a machine learning pipeline that dynamically ingests data similar in format to the IBM telco CSV data.
 
 2. Structure the code into functional Python modules with Jupyter notebooks for demonstration, execution, and visualization.
 
